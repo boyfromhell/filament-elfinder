@@ -63,10 +63,7 @@
         "laravel": {
             "providers": [
                 "IchBin\\FilamentElfinder\\FilamentElfinderServiceProvider"
-            ],
-            "aliases": {
-                "FilamentElfinder": "IchBin\\FilamentElfinder\\Facades\\FilamentElfinder"
-            }
+            ]
         }
     },
     "minimum-stability": "dev",
