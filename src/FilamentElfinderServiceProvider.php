@@ -25,7 +25,7 @@ class FilamentElfinderServiceProvider extends PluginServiceProvider
                 $command
                     ->publishConfigFile()
                     ->publishAssets()
-                    ->askToStarRepoOnGitHub('ichbin/filament-elfinder');
+                    ->askToStarRepoOnGitHub('boyfromhell/filament-elfinder');
             });
     }
 }
