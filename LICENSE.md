@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) IchBin <boyfromhell86@gmail.com>
+Copyright (c) IchBin <contact@gametracker.ro>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
