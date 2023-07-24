@@ -111,3 +111,7 @@ return array(
 - [IchBin](https://github.com/IchBin)
 - [Website](https://www.gametracker.ro)
 - [barryvdh](https://github.com/barryvdh)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
