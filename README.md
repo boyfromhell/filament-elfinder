@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ichbin/filament-elfinder.svg?style=flat-square)](https://packagist.org/packages/ichbin/filament-elfinder)
 [![Total Downloads](https://img.shields.io/packagist/dt/ichbin/filament-elfinder.svg?style=flat-square)](https://packagist.org/packages/ichbin/filament-elfinder)
 
-![img](https://github.com/boyfromhell/filament-elfinder/blob/main/img/filament-elfinder.png?raw=true)
+![img](https://raw.githubusercontent.com/boyfromhell/filament-elfinder/master/img/filament-elfinder.png)
 ## Installation
 
 You can install the package via composer:
